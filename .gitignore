@@ -6,8 +6,9 @@ dist/*.d.ts
 package-lock.json
 
 ## Typescript q2g Folders
-node_modules/
-dist/
+src/node_modules/
+src/dist/
+src/placeholder/
 
 ## Include
 !gulpfile.js
