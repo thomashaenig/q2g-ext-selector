@@ -1,6 +1,6 @@
 {
     "name": "q2g Selector",
-    "description": "This extensions developed for blind users to make selections with full keyboard control and full JAWS support.",
+    "description": "This extension eas developed for blind users to make selections with full keyboard control and full JAWS support.",
     "type": "visualization",
     "icon": "filterpane",
     "version": "1.0.2",

@@ -11,7 +11,8 @@ src/dist/
 src/placeholder/
 
 ## Include
-!gulpfile.js
+!src/gulpfile.js
+!src/webpack.config.js
 
 ## Standard vccode
 .vscode/*
