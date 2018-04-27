@@ -11,6 +11,7 @@ dist/
 
 ## Include
 !gulpfile.js
+!src/placeholder/q2g-ext-selector.js
 
 ## Standard vccode
 .vscode/*
